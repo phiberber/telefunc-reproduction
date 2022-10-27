@@ -11,9 +11,7 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/solid-js": "^1.2.1",
-    "astro": "^1.5.2",
-    "solid-js": "^1.6.0",
-    "telefunc": "^0.1.27"
+    "astro": "^1.6.0",
+    "telefunc": "^0.1.28"
   }
 }
