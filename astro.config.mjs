@@ -5,7 +5,5 @@ import { telefunc } from 'telefunc/vite'
 export default defineConfig({
     vite: {
         plugins: [telefunc()],
-        build: { target: 'esnext' },
-        appType: 'mpa',
     }
 });
